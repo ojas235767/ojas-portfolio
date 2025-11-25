@@ -58,7 +58,6 @@ h2::after{content:'';width:80px;height:5px;background:var(--purple);position:abs
 .project-card{background:white;padding:32px;border-radius:20px;box-shadow:0 10px 30px rgba(0,0,0,0.08);transition:.3s;text-decoration:none;color:inherit;display:flex;flex-direction:column;height:100%;max-width:420px}
 .project-card:hover{transform:translateY(-10px);box-shadow:0 20px 40px rgba(0,0,0,0.12)}
 .project-card h3{color:var(--purple);margin-bottom:8px;font-size:1.4rem}
-.project-date{color:var(--purple);font-weight:600;font-size:0.95rem;margin-bottom:12px}
 .project-card p:last-child{margin-top:auto;color:#444;line-height:1.6}
 .netflix-center{grid-column:1/-1;max-width:460px;margin:20px auto 0;justify-self:center}
 
@@ -87,3 +86,4 @@ footer{background:#1e293b;color:white;padding:50px 0;text-align:center}
   .btn-primary,.btn-outline{width:80%;max-width:300px}
   .education-content{grid-template-columns:1fr}
 }
+
